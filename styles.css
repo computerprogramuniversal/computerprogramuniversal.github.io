@@ -57,6 +57,7 @@ body {
   font-family: impact;
 }
 .footer {
-  text-align: center;
-  bottom: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
